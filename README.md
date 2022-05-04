@@ -2,7 +2,7 @@
 
 ##
 
-- 📒 Formação em Dev FullStack em andamento.
+- 📒 Desenvolvedor Web FullStack/Front-End.
 - 📫 Meu contato: yago.dmoraes@gmail.com
 - 😄 Pronomes: Ele/Dele
 - 👾 Games: Fire Emblem, Shin Megami Tensei, Pokemon, Genshi Impact e The Legend Of Zelda
